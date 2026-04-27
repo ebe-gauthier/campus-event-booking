@@ -129,16 +129,26 @@ MongoDB Database
 ##  screenshoots
 
 ## Frontend
-image-1.png)
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1820" height="913" alt="Screenshot 2026-04-27 113356" src="https://github.com/user-attachments/assets/c023c04e-3f82-41ae-a384-7ebe34116085" />
+
+<img width="1882" height="941" alt="Screenshot 2026-04-27 113001" src="https://github.com/user-attachments/assets/908550dc-4e1b-4b6d-9d54-b7684d4b6115" />
+
+
+<img width="1918" height="966" alt="Screenshot 2026-04-27 113454" src="https://github.com/user-attachments/assets/b9d6bf74-42a7-4c55-a742-46a63c849bb0" />
+
+<img width="1886" height="935" alt="Screenshot 2026-04-27 113800" src="https://github.com/user-attachments/assets/27c0eccd-422e-41bf-88d1-bf279af41193" />
+
 
 ## backend
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+<img width="1801" height="833" alt="Screenshot 2026-04-27 114126" src="https://github.com/user-attachments/assets/2531bbe4-0a93-4a62-a8a7-34d8bdfd1c1a" />
+
+<img width="1918" height="959" alt="Screenshot 2026-04-27 114234" src="https://github.com/user-attachments/assets/c9da7d3a-2d1b-4f79-ba0b-3fcc1058e871" />
+
+<img width="1919" height="959" alt="Screenshot 2026-04-27 114307" src="https://github.com/user-attachments/assets/b0aedb16-7077-42c1-8ef4-406871015813" />
+
+<img width="1914" height="971" alt="Screenshot 2026-04-27 114350" src="https://github.com/user-attachments/assets/24b59d00-ceee-4965-afb4-cb8ea62d48ea" />
+
 
 ## DATA
-![alt text](image-8.png)
+<img width="1907" height="880" alt="Screenshot 2026-04-27 114501" src="https://github.com/user-attachments/assets/62300ffd-c3e0-4289-902b-5db61ccb7056" />
+
